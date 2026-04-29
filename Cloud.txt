@@ -1,1 +1,2 @@
 Practicing git like a cloud engineer. xoxo
+Git tracks every single change i make. xoxo
