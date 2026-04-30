@@ -1,0 +1,4 @@
+1. DNS responds to the request of the computer. 
+2. 22
+3. Request is basically the computer ways of communicating and Response is the the way of a DNS server communicating back to the computer.
+4. 5000
