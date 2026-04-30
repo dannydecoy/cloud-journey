@@ -1,0 +1,1 @@
+DNS translates domain names to IP address
