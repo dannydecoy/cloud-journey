@@ -1,0 +1,7 @@
+1. ADD
+2. GET
+3. 500
+4. 404
+5. 5000
+6. Localhost is your computer while a cloud server is a computer on AWS which can be accessed by anyone on the internet
+7. 22
