@@ -1,0 +1,6 @@
+1. A cloud Engineer needs a terminal to navigate around a cloud server.
+2. It helps edit code
+3. A request is sent over http and a response is given back 
+4. A port can be thought of as a door for the user to access a page
+5. Cloud engineering is basically involves managing cloud servers, deploying code and whole lot unto the cloud
+ 
